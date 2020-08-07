@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 
 This branch is test.
+merge with no fast forward.
